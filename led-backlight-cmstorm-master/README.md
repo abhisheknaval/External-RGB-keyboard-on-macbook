@@ -7,7 +7,7 @@ I'm curious if anyone still uses this. Please let me know by emailing me here ab
 This app simply turns on the backlight of a CMStorm Devastator keyboard. Forked from [Apple's demo code](https://developer.apple.com/library/mac/samplecode/HID_LED_test_tool/Introduction/Intro.html).
 
 ### Instructions:
-- [Download](https://github.com/gholker/led-backlight-cmstorm/blob/master/led-backlight-cmstorm?raw=true)
+- [Download](https://github.com/abhisheknaval/External-RGB-keyboard-on-macbook/blob/main/led-backlight-cmstorm-master/led-backlight-cmstorm)
 - open terminal and run 'chmod +x ~/Downloads/led-backlight-cmstorm'
 - double-click the app
 
